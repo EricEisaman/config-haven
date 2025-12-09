@@ -1,5 +1,5 @@
 {
-  "idle_timeout": 120,
+  "idle_timeout": 360,
   "physics": {
     "gravity": -130.0,
     "jump_velocity": 50.0,
